@@ -44,3 +44,10 @@
 <div style="page-break-after: always;"></div>
 
 ## Registro de Versiones del Informe
+
+| Versión | Fecha | Autor | Descripción de modificación |
+|---|---|---|---|
+| 1.0 | 05/09/2026 | Equipo del proyecto | Creación de la estructura inicial del informe. |
+| 1.1 | [Fecha] | [Autor] | [Descripción] |
+| 1.2 | [Fecha] | [Autor] | [Descripción] |
+
